@@ -1,0 +1,8 @@
+fastapi 
+google-generativeai 
+pydantic
+uvicorn
+mysql-connector-python
+python-dotenv
+sqlalchemy
+
